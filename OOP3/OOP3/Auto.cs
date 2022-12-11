@@ -58,7 +58,7 @@ namespace OOP3
             }
             else
             {
-                return "Auto značky " + this.znacka + " ujelo celkem " + this.ujetoCelkem.ToString() + "km" + " se spotřebou " + this.spotreba.ToString() + " litrů na 100km " + " za " + this.dobaJizdyCelkem.ToString() + " hodin." + "Auto už není v pohybu.";
+                return "Auto značky " + this.znacka + " ujelo celkem " + this.ujetoCelkem.ToString() + "km" + " se spotřebou " + this.spotreba.ToString() + " litrů na 100km " + " za " + this.dobaJizdyCelkem.ToString() + " h." + "Auto už není v pohybu.";
             }
         }
     }

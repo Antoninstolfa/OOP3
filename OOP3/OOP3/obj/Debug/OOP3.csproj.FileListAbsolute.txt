@@ -8,3 +8,14 @@ D:\Antonín Štolfa\Programování\C#\OOP3\OOP3\obj\Debug\OOP3.csproj.GenerateRe
 D:\Antonín Štolfa\Programování\C#\OOP3\OOP3\obj\Debug\OOP3.csproj.CoreCompileInputs.cache
 D:\Antonín Štolfa\Programování\C#\OOP3\OOP3\obj\Debug\OOP3.exe
 D:\Antonín Štolfa\Programování\C#\OOP3\OOP3\obj\Debug\OOP3.pdb
+D:\GitHub\OOP3\OOP3\OOP3\bin\Debug\OOP3.exe.config
+D:\GitHub\OOP3\OOP3\OOP3\bin\Debug\OOP3.exe
+D:\GitHub\OOP3\OOP3\OOP3\bin\Debug\OOP3.pdb
+D:\GitHub\OOP3\OOP3\OOP3\obj\Debug\OOP3.csproj.AssemblyReference.cache
+D:\GitHub\OOP3\OOP3\OOP3\obj\Debug\OOP3.csproj.SuggestedBindingRedirects.cache
+D:\GitHub\OOP3\OOP3\OOP3\obj\Debug\OOP3.Form1.resources
+D:\GitHub\OOP3\OOP3\OOP3\obj\Debug\OOP3.Properties.Resources.resources
+D:\GitHub\OOP3\OOP3\OOP3\obj\Debug\OOP3.csproj.GenerateResource.cache
+D:\GitHub\OOP3\OOP3\OOP3\obj\Debug\OOP3.csproj.CoreCompileInputs.cache
+D:\GitHub\OOP3\OOP3\OOP3\obj\Debug\OOP3.exe
+D:\GitHub\OOP3\OOP3\OOP3\obj\Debug\OOP3.pdb

@@ -20,14 +20,29 @@ namespace OOP3
 
         private void button1_Click(object sender, EventArgs e)
         {
-            Auto auto = new Auto(textBox1.Text, Convert.ToDouble(numericUpDown1.Value));
+            auto = new Auto(textBox1.Text, Convert.ToDouble(numericUpDown1.Value));
             button2.Enabled = true;
         }
 
         private void button2_Click(object sender, EventArgs e)
         {
+            auto.Rozjed();
             button3.Enabled = true;
             button2.Enabled = false;
+        }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            auto.VratUjeteKm();
+            auto.CelkovaSpotreba();
+            auto.Zastav(Convert.ToInt32(numericUpDown2.Value));
+            button3.Enabled = false;
+            button2.Enabled = true;
+        }
+
+        private void button4_Click(object sender, EventArgs e)
+        {
+            vypis.Text = auto.ToString();
         }
     }
 }
